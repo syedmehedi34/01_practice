@@ -1,0 +1,40 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.disply{
+    /* display: none; */
+    /* visibility: hidden; */
+
+    /* visibility hidden use korle o je jayga ta use korto
+    oita blank show korbe. 
+    but display none dile oikhane kisui show korena, 
+    as like okhane kisu siloi na.  */
+}
+.blog{
+    margin: 40px;
+    padding: 5px;
+    border: 10px solid teal;
+    box-shadow: 10px 15px 15px navajowhite;
+}
+.class1{
+    border: 2px solid green;
+    display: block;
+}
+.header{
+    height: 300px;
+    background-color: aquamarine;
+    /* background-image: url('photo_01.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover;     keep the ratio same  */
+    /* background-size: contain;   keep the original size  */
+
+    background-image: url('../Images/photo01.jpg');
+    background-size: cover;
+
+
+
+}
+
+
