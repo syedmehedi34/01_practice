@@ -17,6 +17,7 @@ h3{
     padding: 5px;
     border: 10px solid teal;
     box-shadow: 10px 15px 15px navajowhite;
+    border-radius: 30px 5px 30px 5px;
 }
 .class1{
     border: 2px solid green;
@@ -32,9 +33,6 @@ h3{
 
     background-image: url('../Images/photo01.jpg');
     background-size: cover;
-
-
-
 }
 
 
